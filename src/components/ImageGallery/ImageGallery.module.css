@@ -1,0 +1,7 @@
+.ImageGalleryBox{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    padding: 10px;
+    box-sizing: border-box;
+}

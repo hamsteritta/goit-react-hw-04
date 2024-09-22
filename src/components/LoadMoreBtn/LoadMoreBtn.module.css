@@ -8,4 +8,5 @@
 .LoadMoreBtnBox button{
     min-width: 50%;
     background: blue;
+    color: #fff;
 }
